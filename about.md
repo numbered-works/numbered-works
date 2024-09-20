@@ -29,4 +29,4 @@ Typefaces used:
 
 We collect visitor analytics using [GoatCounter](https://www.goatcounter.com/), which does not track or persistently store your personal data. We are mostly interested in where links are coming from (for vanity purposes) and how people are viewing the site (for usability purposes).
 
-_Updated 26/02/23_
+_Updated 20/09/24_
