@@ -11,7 +11,8 @@ Numbered Works is making table-top role-playing adventures, games, art, toys, mu
 
 * Our PDFs are available to download from [itch.io](https://numbered-works.itch.io).
 * We share [notes and links on this site](https://numbered.works/notes).
-* We tweet at [@numberedworks](https://twitter.com/numberedworks), but will probably be using [Mastodon](https://dice.camp/@numberedworks) more as Twitter continues to crumble.
+* Twitter is fucked now so we no longer tweet, but you can try contacting us there [@numberedworks](https://twitter.com/numberedworks) if you must.
+* Try us at [Mastodon](https://dice.camp/@numberedworks).
 * You can email us at [numberedworks@gmail.com](mailto:numberedworks@gmail.com).
 * You can subscribe to updates using [RSS](https://numbered.works/feed.xml), [JSON](https://numbered.works/feed.json), or [email](https://numbered.works/newsletter).
 
